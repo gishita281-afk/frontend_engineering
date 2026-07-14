@@ -1,0 +1,39 @@
+body{
+    background-color:white;
+}
+.container{
+    text-align:center;
+    font-family: Arial, Helvetica, sans-serif;
+    border:5px solid black;
+    border-radius:10px;
+    margin:20px;
+    
+}
+
+
+.container2{
+       width: 45%;
+    float: left;          /* Left side */
+    font-family: Arial, Helvetica, sans-serif;
+    border: 5px solid black;
+    text-align: center;
+    padding: 10px;
+    margin:20px;
+    color:purple;
+}
+
+.container3{
+     width: 45%;
+    float: right;         /* Right side */
+    font-family: Arial, Helvetica, sans-serif;
+    border: 5px solid black;
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px;
+    margin:20px;
+    color:blue;
+}
+
+
+
+
